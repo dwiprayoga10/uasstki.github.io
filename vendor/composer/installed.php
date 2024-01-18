@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'dg/twitter-php' => array(
+            'pretty_version' => 'v4.1.2',
+            'version' => '4.1.2.0',
+            'reference' => '450baa2fd7b5e815c5f050b019c4486d1b1b01da',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../dg/twitter-php',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'sastrawi/sastrawi' => array(
+            'pretty_version' => 'v1.2.0',
+            'version' => '1.2.0.0',
+            'reference' => '31fd4261dd4980cc57447f44d1aec4bd69e2abec',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../sastrawi/sastrawi',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
