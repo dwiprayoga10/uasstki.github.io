@@ -5,6 +5,11 @@ NIM  : A11.2022.14739 <br/>
 # Tugas Akhir Sistem Temu Kembali Informasi
 ## 1.Dataset
 
+### Projek Ini menggunakan Library/Pustaka
+  1. PHP dg/Twitter-php https://github.com/dg/twitter-php <br/>
+  2. Sastrawi PHP Stemmer https://github.com/sastrawi/sastrawi  <br/>
+  3. PHPID sentianalysis https://github.com/yasirutomo/php-sentianalysis-id <br/>
+
 ## 2.Permasalahan dan Tujuan Eksperimen
 kita semua tahu bahwa pada tanggal 12 februari nanti negara kita akan mengadakan pemilihan umum,dimana salah satunya adalah pemilihan presiden dan wakil presiden.
 hal ini tentunya ramai untuk dibahas oleh warganet di aplikasi twiter atau sekarang sudah berganti nama menjadi x.aplikasi X saat ini menjadi salah satu aplikasi
