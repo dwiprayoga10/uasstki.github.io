@@ -4,11 +4,12 @@ NIM  : A11.2022.14739 <br/>
 
 # Tugas Akhir Sistem Temu Kembali Informasi
 ## 1.Dataset
-
+Untuk Dataset yang saya gunakan diperoleh dari proses crawl twiter menggunakan Auth token.
+[pemilu2024 (1).csv](https://github.com/dwiprayoga10/uasstki.github.io/files/13985672/pemilu2024.1.csv)
 ### Projek Ini menggunakan Library/Pustaka
-  1. PHP dg/Twitter-php https://github.com/dg/twitter-php <br/>
-  2. Sastrawi PHP Stemmer https://github.com/sastrawi/sastrawi  <br/>
-  3. PHPID sentianalysis https://github.com/yasirutomo/php-sentianalysis-id <br/>
+  a. Twitter-php https://github.com/dg/twitter-php <br/>
+  b. Sastrawi https://github.com/sastrawi/sastrawi  <br/>
+  c. PHPID sentianalysis https://github.com/yasirutomo/php-sentianalysis-id <br/>
 
 ## 2.Permasalahan dan Tujuan Eksperimen
 kita semua tahu bahwa pada tanggal 12 februari nanti negara kita akan mengadakan pemilihan umum,dimana salah satunya adalah pemilihan presiden dan wakil presiden.
