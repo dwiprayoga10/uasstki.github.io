@@ -2,6 +2,8 @@ Nama: Dwi Prayoga
 NIM : A11.2022.14739
 Tugas Akhir Mata Kuliah Sistem Temu Kembali Informasi
 
+#Aplikasi Analisis Sentimen X tentang Pemilu @)@$
+
 1.Dataset Projek
 
 Projek Ini Menggunakan Library/Pustaka:
