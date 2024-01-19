@@ -4,9 +4,14 @@ Tugas Akhir Mata Kuliah Sistem Temu Kembali Informasi
 
 1.Dataset Projek
 
+Projek Ini Menggunakan Library/Pustaka:
+      a. PHP dg/Twitter-php https://github.com/dg/twitter-php
+      b. Sastrawi PHP Stemmer https://github.com/sastrawi/sastrawi
+      c. PHPID sentianalysis https://github.com/yasirutomo/php-sentianalysis-id
+
 2.Permasalahan dan Tujuan Eksperimen
 
-Kita semua tahu bahwa pada tanggal 12 februari nanti negara kita akan mengadakan pemilihan umum,dimana salah satunya adalah pemilihan presiden dan wakil presiden.
+   Kita semua tahu bahwa pada tanggal 12 februari nanti negara kita akan mengadakan pemilihan umum,dimana salah satunya adalah pemilihan presiden dan wakil presiden.
 hal ini tentunya ramai untuk dibahas oleh warganet di aplikasi twiter atau sekarang sudah berganti nama menjadi x.Aplikasi X saat ini menjadi salah satu aplikasi 
 populer yang digunakan oleh masyarakat dalam memberikan kesan dan pendapatmya, baik opini yang bersifat positif, negatif maupun netral. 
 Pendapat masyarakat yang beragam di aplikasi X ini dapat dijadikan sebagai bahan acuan untuk mendapatkan tingkat kepuasan masyarakat pada siapa saja yang berpartisipasi
@@ -24,6 +29,7 @@ imana hasil klasifikasi tweet memiliki sentimen positif, negatif atau netral
 4. Performa Model / Uji Performa Model
 ![Screenshot (651)](https://github.com/dwiprayoga10/uasstki.github.io/assets/113033658/eb605166-4e76-4194-9d22-790891adf9fe)
 ![Screenshot (652)](https://github.com/dwiprayoga10/uasstki.github.io/assets/113033658/e93b686e-a853-42f1-b3dc-1cd88a136ad8)
+Haisil Analisis Sentimen
 ![Screenshot (653)](https://github.com/dwiprayoga10/uasstki.github.io/assets/113033658/945efbaa-32e4-4efe-84de-3ac34b4d52c4)
 ![Screenshot (654)](https://github.com/dwiprayoga10/uasstki.github.io/assets/113033658/a03c0544-4ae7-4ec8-883a-dc6e1c10c5bd)
    
